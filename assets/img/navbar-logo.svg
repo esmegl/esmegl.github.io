@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 300 19.999998"
+   viewBox="0 0 250 19.999998"
    version="1.1"
    id="svg863"
    sodipodi:docname="navbar-logo.svg"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   width="300"
+   width="250"
    height="20">
   <metadata
      id="metadata869">
@@ -277,9 +277,9 @@
      inkscape:window-height="748"
      id="namedview865"
      showgrid="false"
-     inkscape:zoom="1.1428571"
-     inkscape:cx="96.667243"
-     inkscape:cy="119.25872"
+     inkscape:zoom="2.1768707"
+     inkscape:cx="155.79356"
+     inkscape:cy="70.852163"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -316,7 +316,7 @@
      id="style833-3">.cls-1{fill:#fed136;}</style>
   <g
      id="g1864"
-     transform="matrix(0.3082748,0,0,0.3082748,0.01020718,0.16028709)"
+     transform="matrix(0.3082748,0,0,0.3082748,3.2258323,0.16028709)"
      style="stroke-width:3.24386">
     <path
        sodipodi:type="star"
@@ -428,13 +428,13 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.38900000000000290px;line-height:1.25;font-family:Wattauchimma;-inkscape-font-specification:Wattauchimma;stroke-width:1;fill:#ffffff;fill-opacity:1;"
-     x="33.052845"
-     y="19.399004"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.3165px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke-width:1"
+     x="28.828329"
+     y="19.645586"
      id="text1868"><tspan
        sodipodi:role="line"
        id="tspan1866"
-       x="33.052845"
-       y="19.399004"
-       style="stroke-width:1;fill:#ffffff;fill-opacity:1;">Esmeralda Gallardo</tspan></text>
+       x="28.828329"
+       y="19.645586"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1;stroke-width:1">Esmeralda Gallardo</tspan></text>
 </svg>
