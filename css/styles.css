@@ -11687,14 +11687,18 @@ header.masthead .masthead-heading {
     padding: 0 100px 20px 20px;
   }
 }
-.me {
+.mhead {
   margin-bottom: 3rem;
   text-align: center;
 }
-.me img {
+.mhead img {
   width: 14rem;
   height: 14rem;
   border: 0.5rem solid rgba(255, 255, 255, 1);
+}
+
+.me {
+  text-align: left;
 }
 
 .img-brand {
